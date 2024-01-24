@@ -2,5 +2,5 @@
 
 # write your logic to implement hello world function herec
 def hello():
-    return "hello world"
+    return "Hello World"
     
